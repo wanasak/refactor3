@@ -1,4 +1,4 @@
-# Refractoring
+# Refactoring
 ### Using variable to write understandable code
 Bad
 ```

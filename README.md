@@ -20,7 +20,6 @@ else if (over25Products)
     qtyDiscount = 0.07;
 else if (over10Products)
     qtyDiscount = 0.05;
-
 ```
 
 ### Bad code - Don't assign many values to the temp
